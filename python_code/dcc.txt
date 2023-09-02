@@ -1,0 +1,14 @@
+Géomatique : définition de la géomatique
+La géomatique est la combinaison syntaxique de deux mots : Géographie et Informatique.
+
+Le mot géomatique a été déterminé pour regrouper de façon cohérente l’ensemble des connaissances et technologies nécessaires à la production et au traitement des données numériques décrivant le territoire, ses ressources ou tout autre objet ou phénomène ayant une position géographique.
+
+La géomatique est un domaine qui fait appel aux sciences, aux technologies de mesure de la terre ainsi qu’aux technologies de l’information pour faciliter l’acquisition, le traitement et la diffusion des données sur le territoire (aussi appelées "données spatiales ", "données géospatiales" ou " données géographiques").
+
+La géomatique est étroitement liée à l’information géographique qui est la représentation d’un objet ou d’un phénomène localisé dans l’espace.
+Ainsi, la géomatique regroupe l’ensemble des outils et méthodes permettant de représenter, d’analyser et d’intégrer des données géographiques.
+Géomatique : origine de la géomatique
+La géomatique vient de "Géo", qui veut dire Terre, et "matique" vient de ’informatique’, soit le traitement automatique de l’information géographique. La géographie a, de tout temps, visé à expliquer les traces que les hommes laissent sur leur planète : frontières, aménagements, modifications des espaces naturels … La géographie a créé des systèmes de repérages qui permettent d’identifier les points sur la Terre et les relations entre ces points. La géomatique dérive de la géographie.
+Géomatique : les usages de la géomatique
+Historiquement, les techniques géographiques sont liées aux activités militaires (levés de fortifications ...). La photographie aérienne a beaucoup participé à la multiplication des usages de la géomatique depuis l'agriculture jusqu'à l'urbanisme. Elle a permis d'élaborer de nombreuses bases de données. L'IGN (Institut Géographique National) produit des bases recensant énormément d'informations géographiques. A l'échelle locale, ces bases peuvent concerner le cadastre, l'urbanisme, les réseaux, les espaces verts, les cimetières, le patrimoine …
+ je code
